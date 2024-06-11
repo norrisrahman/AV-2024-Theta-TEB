@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/avjaya/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/avjaya/catkin_ws/src/av_atras/include/**",
+        "/home/avjaya/catkin_ws/src/mpc_ros/mpc_ros/include/**",
+        "/home/avjaya/catkin_ws/src/servingbot/serving_mobile/serving_simuation/servingbot_fake/include/**",
+        "/home/avjaya/catkin_ws/src/servingbot/serving_mobile/serving_simuation/servingbot_gazebo/include/**",
+        "/home/avjaya/catkin_ws/src/servingbot/serving_mobile/servingbot_slam/include/**",
+        "/home/avjaya/catkin_ws/src/steer_drive_ros/steer_bot_hardware_gazebo/include/**",
+        "/home/avjaya/catkin_ws/src/steer_drive_ros/steer_drive_controller/include/**",
+        "/home/avjaya/catkin_ws/src/steer_drive_ros/stepback_and_steerturn_recovery/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
